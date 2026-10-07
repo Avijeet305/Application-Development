@@ -1,0 +1,14 @@
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\bin\Debug\net10.0\Task2.exe
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\bin\Debug\net10.0\Task2.deps.json
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\bin\Debug\net10.0\Task2.dll
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\bin\Debug\net10.0\Task2.pdb
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.dll
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\refint\Task2.dll
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.pdb
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+C:\Users\ASUS\Dropbox\My PC (DESKTOP-4B31J8H)\Desktop\C16\Workshop2\Task2\obj\Debug\net10.0\ref\Task2.dll
